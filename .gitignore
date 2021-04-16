@@ -1,0 +1,5 @@
+hschain/src/*.aux
+hschain/src/*.log
+hschain/src/*.out
+hschain/src/*.pdf
+hschain/src/*.cut
